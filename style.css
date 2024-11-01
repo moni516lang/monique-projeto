@@ -4,7 +4,7 @@ body {
     margin: 0px;
 }
 header {
-    border-bottom: solid 2px rgb(64, 228, 42);
+    border:solid 2px
     padding: 20px;
     font-size: 32px;
     color: rgb(98, 137, 189);
@@ -12,7 +12,7 @@ header {
 /* código omitido */
 
 section {
-background: rgb(100, 54, 150);
+background: rgb(76, 102, 189);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
