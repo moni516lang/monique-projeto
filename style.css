@@ -9,6 +9,13 @@ header {
     font-size: 32px;
     color: rgb(98, 137, 189);
 }
+.chamada {
+    background: rgb(152, 187, 240);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
 
 section {
 background: rgb(76, 102, 189);
@@ -25,8 +32,6 @@ margin-right: 20px;
     display: flex;
     overflow-x: auto;
     gap: 10px;
-    height: 200px;
-    width: 200px;
 }
 
 .categoria {
